@@ -30,8 +30,8 @@ class Details extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Text(
-                    'Hey j\'ai commenceée à aimer la programmation en deuxième année de première année d\'informatique et depuis lors je fais l\'effort de devenir le meilleur tel es mon objectif.\n\n'
-                    'Etant donnée que je me sentais pas trop en programmation malgré que je continue de le faire, je me suis donc orienté sur une autre branche celle de l\'administration système (linux).\n',
+                    'Hey j\'ai commencée à aimer la programmation en deuxième année de première année d\'informatique et depuis lors je fais l\'effort de devenir le meilleur tel est mon objectif.\n\n'
+                    'Etant donné que je me sentais pas trop en programmation malgré que je continue de le faire, je me suis donc orienté sur une autre branche celle de l\'administration système (linux).\n',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.white,
